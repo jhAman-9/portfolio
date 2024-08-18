@@ -17,9 +17,17 @@
 
 > Create website-url like : "https://jhaman-09.github.io/portfolio"
 
-        "homepage" : "website-url"                         
-        "predeploy":"npm run build"
-        "deploy":"gh-pages -d build"
+        {
+          "homepage" : "website-url"
+          "name": "food",
+          "version": "0.1.0",
+          "private": true,    
+
+          scripts {               
+            "predeploy":"npm run build"
+            "deploy":"gh-pages -d build"
+          }
+        }
 
 > Now Deploye it
 

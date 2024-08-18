@@ -11,7 +11,7 @@
         git remote add origin "url"
         git push -u origin 'main'
 
-> Intall package
+> Install package
 
         npm install gh-pages --save-dev 
 

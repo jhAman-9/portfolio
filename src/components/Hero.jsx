@@ -26,17 +26,19 @@ const Hero = () => {
           />
         </h1>
         <p className="text-white sm:text-lg my-6 lg:text-xl">
-          My name is Aman and I am enthusiastic Full Stack Mern Develpoer and Efficient to develop responsive web app.
+          My name is Aman, and I am an enthusiastic Full Stack MERN Developer
+          with a passion for efficiently developing and beautifying responsive
+          web applications.
         </p>
         <div className="my-8">
           <a
-            href="/"
+            href="https://drive.google.com/file/d/1iu3p5gSfqMuxKc10Mgzlbvc-lR-TtNOn/view?usp=drive_link"
             className="px-6 py-3 w-full mr-4 rounded-xl bg-gradient-to-br from-orange-500 to-pink-500 text-white"
           >
             Download Resume
           </a>
           <a
-            href="#contect"
+            href="https://www.linkedin.com/in/aman-kumar-jha-3b254823b/"
             className="px-6 py-3 w-full rounded-xl border border-gray-400 hover:bg-gradient-to-br from-orange-500 to-pink-500 transition duration-300 text-white hover:border-none"
           >
             Contact

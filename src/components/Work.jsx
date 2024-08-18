@@ -6,7 +6,6 @@ import movix from "../assets/Movix.jpg";
 import netflixgpt from "../assets/Netflix-gpt.jpg";
 import youtube from "../assets/Youtube.jpg";
 
-
 const Work = () => {
   return (
     <div className="max-w-[1200px] mx-auto p-5" id="work">
